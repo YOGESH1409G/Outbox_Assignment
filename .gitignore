@@ -1,6 +1,10 @@
 node_modules/
 dist/
+.next/
+*.tsbuildinfo
 .env
+.env.local
 !.env.example
+!.env.local.example
 *.log
 .DS_Store
